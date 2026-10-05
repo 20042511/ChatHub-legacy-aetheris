@@ -23,5 +23,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "AetherisAI"
+rootProject.name = "ChatHub"
 include(":app")
