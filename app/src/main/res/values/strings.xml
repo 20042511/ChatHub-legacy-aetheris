@@ -1,18 +1,18 @@
 <resources>
-    <string name="app_name">Aetheris AI</string>
-    <string name="app_tagline">Your Intelligent Companion</string>
+    <string name="app_name">ChatHub</string>
+    <string name="app_tagline">Simple Multi-Provider AI Chat</string>
 
     <!-- Navigation -->
     <string name="nav_chats">Chats</string>
     <string name="nav_settings">Settings</string>
 
     <!-- Chat Screen -->
-    <string name="chat_input_hint">Message Aetheris…</string>
+    <string name="chat_input_hint">Type your message…</string>
     <string name="chat_send">Send</string>
     <string name="chat_new">New Chat</string>
     <string name="chat_delete">Delete Chat</string>
     <string name="chat_empty_title">Start a Conversation</string>
-    <string name="chat_empty_subtitle">Ask anything — Aetheris is ready to help.</string>
+    <string name="chat_empty_subtitle">Ask anything — Start chatting with AI.</string>
 
     <!-- Settings -->
     <string name="settings_title">Settings</string>
@@ -26,7 +26,7 @@
     <string name="settings_theme">Theme</string>
     <string name="settings_streaming">Enable Streaming</string>
     <string name="settings_saved">Settings saved</string>
-    <string name="settings_about">About Aetheris AI</string>
+    <string name="settings_about">About ChatHub</string>
     <string name="settings_version">Version %s</string>
 
     <!-- Providers -->
