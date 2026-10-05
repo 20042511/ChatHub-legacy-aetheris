@@ -8,13 +8,13 @@ plugins {
 }
 
 android {
-    namespace = "com.aetheris.chat"
+    namespace = "ai.chathub.android"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.aetheris.chat"
+        applicationId = "ai.chathub.android"
         minSdk = 26
-        targetSdk = 35
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0.0"
     }
